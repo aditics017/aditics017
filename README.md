@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditi Kulkarni</h1>
 <h3 align="center">A Computer Science Engineering Student, a MERN Stack Developer, and a DSA Enthusiast passionate about building impactful solutions and exploring cutting-edge technologies. 🚀</h3>
+<h4 align="center">🌐 Check out my portfolio: <a href="https://aditics017.github.io/Portfolio/" target="_blank">aditics017.github.io/Portfolio</a></h4>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
 
 
